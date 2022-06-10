@@ -1,5 +1,5 @@
 
-key = input("input key: ")
+key = input("imput key: ")
 if  key == '54281-7801-222843071-37482':
     import time
     print("software updating please wait") 
@@ -8,6 +8,11 @@ if  key == '54281-7801-222843071-37482':
     print("updating software to 1.18.3") 
     print("update:852 bites") 
     print("")
+    print("")
+    time.sleep(3)
+    print("updating starting...")
+    time.sleep(3)
+    print("update starting...")
     time.sleep(.2)
     print("1%")
     time.sleep(.2)
